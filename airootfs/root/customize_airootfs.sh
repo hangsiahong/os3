@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #
 
-sed -i 's/#WaylandEnable=false/WaylandEnable=false/' /etc/gdm/custom.conf
 
 bash /root/flatpak.install
 
